@@ -1,0 +1,22 @@
+PROYECTO DSS STARBUCKS · SANTIAGO MARTIN PICAZO
+Materia: Infraestructura Tecnológica
+Carrera: Administración de Negocios en Entornos Virtuales
+
+ARCHIVOS PRINCIPALES
+1. REPORTE_PARA_ENTREGAR.pdf: informe académico (10 páginas principales + anexo).
+2. index.html: dashboard web; doble clic para abrirlo en el navegador.
+3. data/resumen.json: resultados procesados disponibles sin servidor.
+4. images/: capturas de pantalla reales de la versión local.
+5. scripts/validar.py: control de indicadores (ejecutar python scripts/validar.py).
+6. docs/bitacora_ia.md: registro de intervención de IA.
+7. .git/: historial LOCAL de commits; no es evidencia de repositorio remoto.
+
+ESTADO Y LIMITACIONES
+- Dashboard, PDF, cifras, filtro interactivo y commits locales: preparados.
+- Fuente: Starbucks Customer Data (Ihor Muliar en Kaggle), simulación académica Udacity. Las cantidades no son ventas oficiales de Starbucks.
+- La descarga directa de Kaggle no se completó. El proyecto utiliza agregados reproducidos a partir de copias públicas mencionadas en README.
+- NO se ha creado un repositorio público ni publicado GitHub Pages; este entorno no ofrece una acción para crear uno o habilitar Pages. NO se inventaron URLs ni capturas.
+- Falta hacer publicación real para cumplir la totalidad de las instrucciones del docente; ver README.md y CHECKLIST_ENTREGA.md.
+
+RECOMENDACIÓN DE ENTREGA
+Si solicitan un solo adjunto, enviar este ZIP. Si solicitan específicamente el reporte en PDF, está incluido como REPORTE_PARA_ENTREGAR.pdf.
